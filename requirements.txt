@@ -276,7 +276,7 @@ pillow==10.0.0 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:f31f9fdbfecb042d046f9d91270a0ba28368a723302786c0009ee9b9f1f60199 \
     --hash=sha256:f88a0b92277de8e3ca715a0d79d68dc82807457dae3ab8699c758f07c20b3c51 \
     --hash=sha256:faaf07ea35355b01a35cb442dd950d8f1bb5b040a7787791a535de13db15ed90
-pyparsing==3.0.9 ; python_version >= "3.9" and python_version < "4.0" \
+pyparsing==3.2.0 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:2b020ecf7d21b687f219b71ecad3631f644a47f01403fa1d1036b0c6416d70fb \
     --hash=sha256:5026bae9a10eeaefb61dab2f09052b9f4307d44aee4eda64b309723d8d206bbc
 python-dateutil==2.8.2 ; python_version >= "3.9" and python_version < "4.0" \
