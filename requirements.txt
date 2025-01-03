@@ -76,9 +76,9 @@ fonttools==4.40.0 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:c55f1b4109dbc3aeb496677b3e636d55ef46dc078c2a5e3f3db4e90f1c6d2907 \
     --hash=sha256:eb52c10fda31159c22c7ed85074e05f8b97da8773ea461706c273e31bcbea836 \
     --hash=sha256:ec468c022d09f1817c691cf884feb1030ef6f1e93e3ea6831b0d8144c06480d1
-importlib-resources==6.0.0 ; python_version >= "3.9" and python_version < "3.10" \
-    --hash=sha256:4cf94875a8368bd89531a756df9a9ebe1f150e0f885030b461237bc7f2d905f2 \
-    --hash=sha256:d952faee11004c045f785bb5636e8f885bed30dc3c940d5d42798a2a4541c185
+importlib-resources==6.5.2; python_version >= "3.9" and python_version < "3.10" \
+    --hash=sha256:185f87adef5bcc288449d98fb4fba07cea78bc036455dd44c5fc4a2fe78fed2c \
+    --hash=sha256:789cfdc3ed28c78b67a06acb8126751ced69a3d5f79c095a98298cd8a760ccec
 kiwisolver==1.4.4 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:02f79693ec433cb4b5f51694e8477ae83b3205768a6fb48ffba60549080e295b \
     --hash=sha256:03baab2d6b4a54ddbb43bba1a3a2d1627e82d205c5cf8f4c924dc49284b87166 \
